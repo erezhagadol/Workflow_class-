@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7387e7bf-941c-4922-8911-bc0c5c1fab83" name="Changes" comment="Task from class">
+      <change afterPath="$PROJECT_DIR$/01_functions_demo/01_excercises_functions/01_excercise_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_functions_demo/01_excercises_functions/02_excercise_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_functions_demo/01_excercises_functions/03_excercise_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_functions_demo/01_excercises_functions/04_excercise_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_functions_demo/01_excercises_functions/05_excercise_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_functions_demo/01_excercises_functions/06_excercise_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_functions_demo/01_excercises_functions/07_excercise_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_functions_demo/01_excercises_functions/09_excercise_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_functions_demo/01_excercises_functions/10_excercise_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_functions_demo/01_excercises_functions/11_excercise_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_functions_demo/09_functions_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_functions_demo/10_high_order_function_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_functions_demo/11_high_order_function_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_functions_demo/12_high_order_function_vs_regular.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/just_for_practice/01_just_for_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/just_for_practice/02_just_for_practice_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/just_for_practice/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/just_for_practice/just_for_practice_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi/add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi/mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_09_modules/01_functools_import.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_09_modules/01_quiz_task/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_09_modules/02_02_import_aliases_from_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_09_modules/02_import_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_09_modules/03_import_faker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_09_modules/add_mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_09_modules/calculation_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_09_modules/mul_mod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_09_modules/quiz_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_09_modules/quiz_questions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_practice_01/calculator_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_practice_01/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_booleans/01_just_for_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_functions_demo/01_excercises_functions/08_excercise_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_functions_demo/06_functions.named_args.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_functions_demo/06_functions_named_args.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2SO547feDWEDh8eNoWBy8D5Y3cb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/erezl/PycharmProjects/pythonProject/01_functions_demo/01_excercises_functions&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\erezl\PycharmProjects\pythonProject\self_practice_01" />
+      <recent name="C:\Users\erezl\PycharmProjects\pythonProject\just_for_practice" />
+      <recent name="C:\Users\erezl\PycharmProjects\pythonProject\01_functions_demo\01_excercises_functions" />
+      <recent name="C:\Users\erezl\PycharmProjects\pythonProject\01_functions_demo" />
+      <recent name="C:\Users\erezl\PycharmProjects\pythonProject\01_functions_demo\01_function_excercises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.just_for_practice_strings">
+    <configuration name="add" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multi/add.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="calculator_module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/self_practice_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/self_practice_01/calculator_module.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="just_for_practice_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/just_for_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/just_for_practice/just_for_practice_strings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/self_practice_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/self_practice_01/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quiz_manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_09_modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_09_modules/quiz_manager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.just_for_practice_strings" />
+        <item itemvalue="Python.quiz_manager" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.calculator_module" />
+        <item itemvalue="Python.add" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7387e7bf-941c-4922-8911-bc0c5c1fab83" name="Changes" comment="" />
+      <created>1689004594767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689004594767</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Task from class">
+      <option name="closed" value="true" />
+      <created>1690831627752</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690831627752</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Task from class">
+      <option name="closed" value="true" />
+      <created>1691427421106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691427421106</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Task from class">
+      <option name="closed" value="true" />
+      <created>1692894056059</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692894056059</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task from class">
+      <option name="closed" value="true" />
+      <created>1694710963489</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694710963489</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task from class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task from class" />
+  </component>
+</project>
